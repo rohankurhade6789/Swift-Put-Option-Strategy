@@ -1,0 +1,565 @@
+portfolio: {}
+
+default:
+  contract:
+    currency: INR
+    exchange: NSE
+    security_type : OPT
+    contract_size : '1'
+    mkt_open: '09:15:00'
+    mkt_close: '15:30:00'
+    position_closing_start: '09:15:00'
+    position_closing_end: '15:00:00'
+    position_taking_start: '15:26:00'
+  candle_size: 15 mins             # 1 secs, 5 secs, 10 secs, 15 secs, 30 secs, 1 min, 2 mins, 3 mins, 5 mins, 10 mins, 15 mins,
+                                   # 20 mins, 30 mins, 1 hour, 2 hours, 3 hours, 4 hours, 8 hours, 1 day, 1W, 1M
+
+AARTIIND:
+    symbol: AARTIIND
+    type  : STK
+ABB:
+    symbol: ABB
+    type  : STK
+ABBOTINDI:
+    symbol: ABBOTINDI
+    type  : STK
+ABCAPITAL:
+    symbol: ABCAPITAL
+    type  : STK
+ABFRL:
+    symbol: ABFRL 
+    type  : STK
+ACC:
+    symbol: ACC
+    type  : STK
+ADANIENT:
+    symbol: ADANIENT
+    type  : STK
+ADANIPORT:
+    symbol: ADANIPORT
+    type  : STK
+ALKEM:
+    symbol: ALKEM
+    type  : STK
+AMBUJACEM:
+    symbol: AMBUJACEM 
+    type  : STK
+APOLLOHOS:
+    symbol: APOLLOHOS
+    type  : STK
+APOLLOTYR:
+    symbol: APOLLOTYR
+    type  : STK
+ASHOKLEY:
+    symbol: ASHOKLEY
+    type  : STK
+ASIANPAIN:
+    symbol: ASIANPAIN
+    type  : STK
+ASTRAL:
+    symbol: ASTRAL
+    type  : STK
+ATUL:
+    symbol: ATUL 
+    type  : STK
+AUBANK:
+    symbol: AUBANK
+    type  : STK
+AUROPHARM:
+    symbol: AUROPHARM
+    type  : STK
+AXISBANK:
+    symbol: AXISBANK
+    type  : STK
+BAJAJ-AUT:
+    symbol: BAJAJ-AUT
+    type  : STK
+BAJAJFINS:
+    symbol: BAJAJFINS
+    type  : STK
+BAJFINANC:
+    symbol: BAJFINANC
+    type  : STK
+BALKRISIN:
+    symbol: BALKRISIN
+    type  : STK
+BALRAMCHI:
+    symbol: BALRAMCHI
+    type  : STK
+BANDHANBN:
+    symbol: BANDHANBN
+    type  : STK
+BANKBAROD:
+    symbol: BANKBAROD
+    type  : STK
+BATAINDIA:
+    symbol: BATAINDIA
+    type  : STK
+BEL:
+    symbol: BEL
+    type  : STK
+BERGEPAIN:
+    symbol: BERGEPAIN
+    type  : STK
+BHARATFOR:
+    symbol: BHARATFOR
+    type  : STK
+BHARTIART:
+    symbol: BHARTIART
+    type  : STK
+BHEL:
+    symbol: BHEL
+    type  : STK
+BIOCON:
+    symbol: BIOCON
+    type  : STK
+BOSCHLTD:
+    symbol: BOSCHLTD
+    type  : STK
+BPCL:
+    symbol: BPCL
+    type  : STK
+BRITANNIA:
+    symbol: BRITANNIA
+    type  : STK
+BSOFT:
+    symbol: BSOFT
+    type  : STK
+CANBK:
+    symbol: CANBK
+    type  : STK
+CANFINHOM:
+    symbol: CANFINHOM
+    type  : STK
+CHAMBLFER:
+    symbol: CHAMBLFER
+    type  : STK
+CHOLAFIN:
+    symbol: CHOLAFIN
+    type  : STK
+CIPLA:
+    symbol: CIPLA
+    type  : STK
+COALINDIA:
+    symbol: COALINDIA
+    type  : STK
+COFORGE:
+    symbol: COFORGE
+    type  : STK
+COLPAL:
+    symbol: COLPAL
+    type  : STK
+CONCOR:
+    symbol: CONCOR
+    type  : STK
+COROMANDE:
+    symbol: COROMANDE
+    type  : STK
+CROMPTON:
+    symbol: CROMPTON
+    type  : STK
+CUB:
+    symbol: CUB
+    type  : STK
+CUMMINSIN:
+    symbol: CUMMINSIN
+    type  : STK
+DABUR:
+    symbol: DABUR
+    type  : STK
+DALBHARAT:
+    symbol: DALBHARAT
+    type  : STK
+DEEPAKNTR:
+    symbol: DEEPAKNTR
+    type  : STK
+DELTACORP:
+    symbol: DELTACORP
+    type  : STK
+DIVISLAB:
+    symbol: DIVISLAB
+    type  : STK
+DIXON:
+    symbol: DIXON
+    type  : STK
+DLF:
+    symbol: DLF
+    type  : STK
+DRREDDY:
+    symbol: DRREDDY
+    type  : STK
+EICHERMOT:
+    symbol: EICHERMOT
+    type  : STK
+ESCORTS:
+    symbol: ESCORTS
+    type  : STK
+EXIDEIND:
+    symbol: EXIDEIND
+    type  : STK
+FEDERALBN:
+    symbol: FEDERALBN
+    type  : STK
+GAIL:
+    symbol: GAIL
+    type  : STK
+GLENMARK:
+    symbol: GLENMARK
+    type  : STK
+GMRINFRA:
+    symbol: GLENMARK
+    type  : STK    
+GNFC:
+    symbol: GNFC
+    type  : STK
+GODREJCP:
+    symbol: GODREJCP
+    type  : STK
+GODREJPRO:
+    symbol: GODREJPRO
+    type  : STK
+GRANULES:
+    symbol: GRANULES
+    type  : STK
+GRASIM:
+    symbol: GRASIM
+    type  : STK
+GUJGASLTD:
+    symbol: GUJGASLTD
+    type  : STK
+HAL:
+    symbol: HAL
+    type  : STK
+HAVELLS:
+    symbol: HAVELLS
+    type  : STK
+HCLTECH:
+    symbol: HCLTECH
+    type  : STK
+HDFCAMC:
+    symbol: HDFCAMC
+    type  : STK
+HDFCBANK:
+    symbol: HDFCBANK
+    type  : STK
+HDFCLIFE:
+    symbol: HDFCLIFE
+    type  : STK
+HEROMOTOC:
+    symbol: HEROMOTOC
+    type  : STK
+HINDALCO:
+    symbol: HINDALCO
+    type  : STK
+HINDCOPPE:
+    symbol: HINDCOPPE
+    type  : STK
+HINDPETRO:
+    symbol: HINDPETRO
+    type  : STK
+HINDUNILV:
+    symbol: HINDUNILV
+    type  : STK
+IBULHSGFI:
+    symbol: IBULHSGFI
+    type  : STK
+ICICIBANK:
+    symbol: ICICIBANK
+    type  : STK
+ICICIGI:
+    symbol: ICICIGI
+    type  : STK
+ICICIPRUL:
+    symbol: ICICIPRUL
+    type  : STK
+IDFC:
+    symbol: IDFC
+    type  : STK
+IDFCFIRST:
+    symbol: IDFCFIRST
+    type  : STK
+IEX:
+    symbol: IEX
+    type  : STK
+IGL:
+    symbol: IGL
+    type  : STK
+INDHOTEL:
+    symbol: INDHOTEL
+    type  : STK
+INDIACEM:
+    symbol: INDIACEM
+    type  : STK
+INDIAMART:
+    symbol: INDIAMART
+    type  : STK
+INDIGO:
+    symbol: INDIGO
+    type  : STK
+INDUSINDB:
+    symbol: INDUSINDB
+    type  : STK
+INDUSTOWE:
+    symbol: INDUSTOWE
+    type  : STK
+INFY:
+    symbol: INFY
+    type  : STK
+IOC:
+    symbol: IOC
+    type  : STK
+IPCALAB:
+    symbol: IPCALAB
+    type  : STK
+IRCTC:
+    symbol: IRCTC
+    type  : STK
+ITC:
+    symbol: ITC
+    type  : STK
+JINDALSTE:
+    symbol: JINDALSTE
+    type  : STK
+JKCEMENT:
+    symbol: JKCEMENT
+    type  : STK
+JSWSTEEL:
+    symbol: JSWSTEEL
+    type  : STK
+JUBLFOOD:
+    symbol: JUBLFOOD
+    type  : STK
+KOTAKBANK:
+    symbol: KOTAKBANK
+    type  : STK
+LTFH:
+    symbol: LTFH
+    type  : STK
+LALPATHLA:
+    symbol: LALPATHLA
+    type  : STK
+LAURUSLAB:
+    symbol: LAURUSLAB
+    type  : STK
+LICHSGFIN:
+    symbol: LICHSGFIN
+    type  : STK
+LT:
+    symbol: LT
+    type  : STK
+LTIM:
+    symbol: LTIM
+    type  : STK
+LTTS:
+    symbol: LTTS
+    type  : STK
+LUPIN:
+    symbol: LUPIN
+    type  : STK
+MM:
+    symbol: MM
+    type  : STK
+MMFIN:
+    symbol: MMFIN
+    type  : STK
+MANAPPURA:
+    symbol: MANAPPURA
+    type  : STK
+MARICO:
+    symbol: MARICO
+    type  : STK
+MARUTI:
+    symbol: MARUTI
+    type  : STK
+MCDOWELL-:
+    symbol: MCDOWELL-
+    type  : STK
+MCX:
+    symbol: MCX
+    type  : STK
+METROPOLI:
+    symbol: METROPOLI
+    type  : STK
+MFSL:
+    symbol: MFSL
+    type  : STK
+MGL:
+    symbol: MGL
+    type  : STK
+MOTHERSON:
+    symbol: MOTHERSON
+    type  : STK
+MPHASIS:
+    symbol: MPHASIS
+    type  : STK
+MRF:
+    symbol: MRF
+    type  : STK
+MUTHOOTFI:
+    symbol: MUTHOOTFI
+    type  : STK
+NATIONALU:
+    symbol: NATIONALU
+    type  : STK
+NAUKRI:
+    symbol: NAUKRI
+    type  : STK
+NAVINFLUO:
+    symbol: NAVINFLUO
+    type  : STK
+NESTLEIND:
+    symbol: NESTLEIND
+    type  : STK
+NMDC:
+    symbol: NMDC
+    type  : STK
+NTPC:
+    symbol: NTPC
+    type  : STK
+OBEROIRLT:
+    symbol: OBEROIRLT
+    type  : STK
+OFSS:
+    symbol: OFSS
+    type  : STK
+ONGC:
+    symbol: ONGC
+    type  : STK
+PAGEIND:
+    symbol: PAGEIND
+    type  : STK
+PEL:
+    symbol: PEL
+    type  : STK
+PERSISTEN:
+    symbol: PERSISTEN
+    type  : STK
+PETRONET:
+    symbol: PETRONET
+    type  : STK
+PFC:
+    symbol: PFC
+    type  : STK
+PIDILITIN:
+    symbol: PIDILITIN
+    type  : STK
+PIIND:
+    symbol: PIIND
+    type  : STK
+PNB:
+    symbol: PNB
+    type  : STK
+POLYCAB:
+    symbol: POLYCAB
+    type  : STK
+POWERGRID:
+    symbol: POWERGRID
+    type  : STK
+PVRINOX:
+    symbol: PVRINOX
+    type  : STK
+RAMCOCEM:
+    symbol: RAMCOCEM
+    type  : STK
+RBLBANK:
+    symbol: RBLBANK
+    type  : STK
+RECLTD:
+    symbol: RECLTD
+    type  : STK
+RELIANCE:
+    symbol: RELIANCE
+    type  : STK
+SAIL:
+    symbol: SAIL
+    type  : STK
+SBICARD:
+    symbol: SBICARD
+    type  : STK
+SBILIFE:
+    symbol: SBILIFE
+    type  : STK
+SBIN:
+    symbol: SBIN
+    type  : STK
+SHREECEM:
+    symbol: SHREECEM
+    type  : STK
+SHRIRAMFI:
+    symbol: SHRIRAMFI
+    type  : STK
+SIEMENS:
+    symbol: SIEMENS
+    type  : STK
+SRF:
+    symbol: SRF
+    type  : STK
+SUNPHARMA:
+    symbol: SUNPHARMA
+    type  : STK
+SUNTV:
+    symbol: SUNTV
+    type  : STK
+SYNGENE:
+    symbol: SYNGENE
+    type  : STK
+TATACHEM:
+    symbol: TATACHEM
+    type  : STK
+TATACOMM:
+    symbol: TATACOMM
+    type  : STK
+TATACONSU:
+    symbol: TATACONSU
+    type  : STK
+TATAMOTOR:
+    symbol: TATAMOTOR
+    type  : STK
+TATAPOWER:
+    symbol: TATAPOWER
+    type  : STK
+TATASTEEL:
+    symbol: TATASTEEL
+    type  : STK
+TCS:
+    symbol: TCS
+    type  : STK
+TECHM:
+    symbol: TECHM
+    type  : STK
+TITAN:
+    symbol: TITAN
+    type  : STK
+TORNTPHAR:
+    symbol: TORNTPHAR
+    type  : STK
+TRENT:
+    symbol: TRENT
+    type  : STK
+TVSMOTOR:
+    symbol: TVSMOTOR
+    type  : STK
+UBL:
+    symbol: UBL
+    type  : STK
+ULTRACEMC:
+    symbol: ULTRACEMC
+    type  : STK
+UPL:
+    symbol: UPL
+    type  : STK
+VEDL:
+    symbol: VEDL
+    type  : STK
+VOLTAS:
+    symbol: VOLTAS
+    type  : STK
+WIPRO:
+    symbol: WIPRO
+    type  : STK
+ZEEL:
+    symbol: ZEEL
+    type  : STK
+ZYDUSLIFE:
+    symbol: ZYDUSLIFE
+    type  : STK
